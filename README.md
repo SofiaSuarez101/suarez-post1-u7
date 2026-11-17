@@ -11,8 +11,7 @@ suarez-post1-u7/
 ├── README.md
 ├── parte1/  post1.asm  post1b.asm  post1c.asm  post1d.asm  (+ .com)
 ├── parte2/  post2a.asm post2b.asm  post2c.asm  post2d.asm  post2e.asm (+ .com)
-└── capturas/ (capturas de la ejecucion
-)
+└── capturas/ (capturas de la ejecucion)
 ```
 
 Compilación y ejecución (ejemplo): `nasm -f bin post1.asm -o post1.com` y luego `post1.com`.
